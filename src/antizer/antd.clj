@@ -14,6 +14,8 @@
                   Button.Group
                   Calendar
                   Card
+                  Card.Grid
+                  Card.Meta
                   Carousel
                   Cascader
                   Checkbox
@@ -24,6 +26,7 @@
                   DatePicker
                   DatePicker.MonthPicker
                   DatePicker.RangePicker
+                  Divider
                   Dropdown
                   Dropdown.Button
                   Form
@@ -39,6 +42,9 @@
                   Layout.Footer
                   Layout.Header
                   Layout.Sider
+                  List
+                  List.Item
+                  List.Item.Meta
                   LocaleProvider
                   Mention
                   Menu
@@ -53,6 +59,7 @@
                   Progress
                   Radio
                   Radio.Group
+                  Radio.Button
                   Rate
                   Row
                   Select
